@@ -1,3 +1,3 @@
 # 記帳程式(Account)
 
-![image](./Picture/tkinder.png)
+![image](./picture/tkinder.png)
